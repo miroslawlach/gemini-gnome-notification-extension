@@ -1,0 +1,16 @@
+{
+  "name": "gemini-gnome-notification-extension",
+  "version": "1.0.1",
+  "description": "Send a system notification",
+  "scripts": {
+    "build": "echo 'Building...'",
+    "package": "echo 'Packaging...'"
+  },
+  "keywords": [
+    "gemini",
+    "extension",
+    "notification"
+  ],
+  "author": "Miroslaw Lach",
+  "license": "ISC"
+}
