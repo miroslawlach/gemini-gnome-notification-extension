@@ -1,0 +1,5 @@
+description = "Send a system notification"
+prompt = """
+!{notify-send -u normal -i utilities-terminal -a "Gemini CLI" "🤖 Gemini" "{{args}}"}
+Notification sent: {{args}}
+"""
